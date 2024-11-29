@@ -1,0 +1,6 @@
+@Debt_Notebook_HostAddress = http://localhost:5077
+
+GET {{Debt_Notebook_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
